@@ -10,7 +10,7 @@ module.exports = {
         // 即 docs/.vuepress/public/img/geass-bg.ico
         ['link', { rel: 'icon', href: '/img/logo.png' }], 
     ],
-    base: '/VueSourceCore/', // 这是部署到github相关的配置
+    // base: '/VueSourceCore/', // 这是部署到github相关的配置
     markdown: {
         lineNumbers: true // 页面中代码块显示行号
     },
